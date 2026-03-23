@@ -1,3 +1,5 @@
+To reach the Architect or propose a major logic shift, please open a thread in the [Discussions] tab.
+
 The Zavala Sovereignty Protocol (ZSP) v1.0
 
 The Behavioral Operating System for Agentic AI
