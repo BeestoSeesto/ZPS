@@ -51,6 +51,24 @@ Personal OS (Apple/Microsoft): A privacy-first layer that tracks "Relationship H
 
 Family Infrastructure: A dashboard for parents and children to visualize the "Bridge Health" of the home.
 
+🛠 Call for Contributors: The Sovereignty Sprint
+
+ZSP is a behavioral framework designed to combat Social and Cognitive Death. The logic is established; now we need the "Everyday" tools to make Sovereignty accessible to everyone.
+
+We are looking for "Admin" Builders to help with:
+
+Mobile Integration: Lightweight apps that pull Kinetic Effort [KE] (GPS/Step data) to trigger the Sovereignty Mirror.
+
+Agentic Logic [CE]: Scripts for LLMs (OpenClaw, GPT, Claude) that identify The 4 Archetypes of Atrophy in real-time chat.
+
+The Reciprocity Ledger: UI/UX designs for a "Shared Family Ledger" that visualizes the math of human sacrifice.
+
+Legal/GRC Research: Mapping the ZSP to emerging AI Governance and Digital Sovereignty laws.
+
+"If you are tired of building AI that turns humans into ghosts, help us build the Mirror."
+
+Submit a Pull Request or reach out to the Architect via the Discussions tab.
+
 📝 Founder’s Note
 "AI can build our code and our schedules, but it cannot build our physical health or our character. The Zavala Protocol ensures that the '16-hour drive' or the '10-hour study session' is never invisible. It turns data back into gratitude."
 — Sisto Zavala, JD Candidate
